@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY ./source/  /var/jenkins/
+COPY ./source/  /usr/local/apache2/htdocs/
