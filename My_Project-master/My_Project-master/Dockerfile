@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY ./source/  /usr/local/apache2/htdocs/
+COPY ./source/  /var/jenkins/workspace/Docker_build/Dockerfile
